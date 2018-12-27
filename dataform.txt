@@ -1,0 +1,12 @@
+{
+	dir:"",
+	var:"",
+	case:[
+		{
+		title:"",
+		prompt:"",
+		steps:[[]]
+		}
+	]
+	child:[]
+}
